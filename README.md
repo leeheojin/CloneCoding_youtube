@@ -5,6 +5,6 @@
 
 ![image](https://user-images.githubusercontent.com/78328183/209038206-fcd9a27f-9b9a-4fd9-825d-89a902b18b24.png)
 -----
-<h3>화면이 기준치 이상으로 커지면 정렬을 
+<span>화면이 기준치 이상으로 커지면 정렬을 </span>
 -----
 ![image](https://user-images.githubusercontent.com/78328183/209038276-264db6f8-627c-4139-b920-c90052c1c5a8.png)
