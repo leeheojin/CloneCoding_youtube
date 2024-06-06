@@ -1,7 +1,7 @@
 # CloneCoding_youtube
 드림코딩 유튜브사이트 따라 만들기📹
 
-🔗https://heoheoj.github.io/CloneCoding_youtube/
+🔗https://leeheojin.github.io/CloneCoding_youtube/
 
 👇🏻결과물 캡처👇🏻
 
